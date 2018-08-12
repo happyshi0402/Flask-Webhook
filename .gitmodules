@@ -1,0 +1,9 @@
+[submodule "static/bootstrap-select"]
+	path = static/bootstrap-select
+	url = https://github.com/happyshi0402/bootstrap-select.git
+[submodule "static/jquery"]
+	path = static/jquery
+	url = https://github.com/happyshi0402/jquery.git
+[submodule "static/bootstrap"]
+	path = static/bootstrap
+	url = https://github.com/happyshi0402/bootstrap.git
